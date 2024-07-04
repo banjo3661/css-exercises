@@ -1,0 +1,13 @@
+
+
+/*externe CSS =>  CSS und HTML sind seperat*/
+/* Zugriff auf das div Elemnt in CSS*/
+div {
+
+     /* Schrfitfrabe wurde weiß*/
+    color: white;
+    /* Hintergrundschrift farbe = rot*/
+    background-color:red;
+    
+
+}
