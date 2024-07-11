@@ -1,13 +1,23 @@
 
 
 /*1. Methode  von 3 => externe CSS =>  CSS und HTML sind seperat*/
-/* Zugriff auf das div Elemnt in CSS*/
+/* Zugriff auf das div Element in der HTML Datei*/
 div {
 
      /* Schrfitfrabe wurde weiß*/
     color: white;
     /* Hintergrundschrift farbe = rot*/
     background-color:red;
+
+    /*Schrift Größe*/
+    font-size: 32px;
+
+    /* Text mittig zentriert*/
+    text-align: center;
+
+    /* Fette Schrift */
+    font-weight: bold;
+
     
 
 }
