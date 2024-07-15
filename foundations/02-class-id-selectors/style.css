@@ -1,7 +1,22 @@
 /* Klasse roser-hintergrund wird derfiniert*/
 .roser-hintergrund {
 
+    /*Schriftfarbe als RGB Wert*/
     color:rgb(0, 0, 0);
-    background-color: rgb(255, 0, 255);
+
+    /*Hintergrund Farbe als HEX Zahl*/
+    background-color: #ff0040;
+
+    /*Verdana ist die Schriftart, falls diese nicht funktioneiren sollte, kommen schrifarten von den
+    Schriftfamilien DejaVu  oder sans-serif*/ 
     font-family: "Verdana", DejaVu, sans-serif;
+}
+
+/* ID-Klasse/Selektor () groß-Blau wird defniert Selektor kann man nur 1 mal verwenden Klasse immer wieder */
+#groß-blau {
+    
+    /*Schriftfarbe als RGB  Wert*/
+    color:rgb(0, 0, 255); 
+    font-size : 36px;
+
 }
