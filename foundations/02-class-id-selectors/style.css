@@ -1,0 +1,7 @@
+/* Klasse roser-hintergrund wird derfiniert*/
+.roser-hintergrund {
+
+    color:rgb(0, 0, 0);
+    background-color: rgb(255, 0, 255);
+    font-family: "Verdana", DejaVu, sans-serif;
+}
