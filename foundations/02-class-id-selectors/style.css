@@ -20,3 +20,18 @@
     font-size : 36px;
 
 }
+
+/*Klasse roser-hintergrud-groß  wird defniert*/
+.roser-hintergrund-groß {
+
+    /*Schwarze Schriftfarbe  als RGB*/
+    color:rgb(0, 0, 0);
+
+    /*Hintergrund Farbe als HEX Zahl*/
+    background-color: #ff0040 ;
+
+    font-size: 24px;
+    
+
+
+}
